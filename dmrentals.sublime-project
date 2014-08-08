@@ -3,6 +3,9 @@
 	[
 		{
 			"path": "/E/inetpub/webroot/dmrentals"
+		},
+		{
+			"path": "/E/inetpub/webroot/dmrentals-local-development"
 		}
 	]
 }
